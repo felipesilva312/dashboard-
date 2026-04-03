@@ -1,0 +1,15 @@
+.btn-add{
+    background-color: #004a8d;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: right;
+
+
+}
+.alinhar{
+    text-align: right;
+}
